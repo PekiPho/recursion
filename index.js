@@ -17,4 +17,4 @@ const fibsRec = (n,a=[0,1])=>{
     }
 };
 
-console.log(fibsRec(15));
+//console.log(fibsRec(15));
